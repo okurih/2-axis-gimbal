@@ -20,7 +20,7 @@ Self stabilizing axis gimbal project using i2cdevlib for simple development focu
 |||
 |-|-|
 | ![schematic](./img/schematic.png) | ![schematic](./img/3dprints.png) |
-
+| | *models found in respective folder, includes additional yaw handle with servo mount* |
 ---
 ## Demonstration
 
