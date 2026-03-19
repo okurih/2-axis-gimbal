@@ -13,6 +13,7 @@ Self stabilizing axis gimbal project using i2cdevlib for simple development focu
 | IMU | MPU-6050 (i2c) |
 | Servos | 2x mg995 |
 | Power | 5V3A barrel jack + usb for nano |
+| Body | custom 3d PLA print |
 
 ---
 ## Schematic
