@@ -22,7 +22,7 @@ Self stabilizing axis gimbal project using i2cdevlib for simple development focu
 ---
 ## Demonstration
 
->[![video]()](gimbal.mp4)
+>[![video](gimbal.gif)]
 
 ---
 ## Code
