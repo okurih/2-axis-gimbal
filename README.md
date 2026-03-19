@@ -15,9 +15,10 @@ Self stabilizing axis gimbal project using i2cdevlib for simple development focu
 | Power | 5V3A barrel jack + usb for nano |
 
 ---
-## Schematic
-
->![schematic](schematic.png)
+## Schematic & 3d models
+|||
+|-|-|
+| ![schematic](./img/schematic.png) | ![schematic](./img/3dprints.png) |
 
 ---
 ## Demonstration
@@ -26,8 +27,9 @@ Self stabilizing axis gimbal project using i2cdevlib for simple development focu
 
 | roll and pitch calibration | axis |
 |-|-|
-| ![video](gimbal.gif) | <img src="pry.svg" style="background:white;"/> |
+| ![video](./img/gimbal.gif) | <img src="./img/pry.svg" style="background:white;"/> |
 | |*Image: [Auawise](https://commons.wikimedia.org/wiki/File:Yaw_Axis_Corrected.svg), CC BY-SA 3.0, via Wikimedia Commons*|
+
 ---
 ## Code
 
