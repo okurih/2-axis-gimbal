@@ -26,7 +26,7 @@ Self stabilizing axis gimbal project using i2cdevlib for simple development focu
 
 
 
-| roll and pitch calibration | axis |
+| roll and pitch calibration (loading) | axis |
 |-|-|
 | ![video](./img/gimbal.gif) | <img src="./img/pry.svg" style="background:white;"/> |
 | |*Image: [Auawise](https://commons.wikimedia.org/wiki/File:Yaw_Axis_Corrected.svg), CC BY-SA 3.0, via Wikimedia Commons*|
